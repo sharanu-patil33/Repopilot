@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# RepoPilot runtime workspaces
+backend/workspace/
+backend/repository/test_workspace/
